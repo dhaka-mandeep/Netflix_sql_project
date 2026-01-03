@@ -222,3 +222,4 @@ Content Diversity: Netflix hosts a wide variety of movies and TV shows across mu
 Audience Targeting: Common rating patterns help identify the platform’s primary audience segments.
 Geographical Trends: Country-wise analysis highlights regional content dominance, with India showing notable release patterns.
 Content Nature: Keyword-based categorization provides insight into the thematic nature of available content.
+
